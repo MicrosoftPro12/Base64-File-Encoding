@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		55DC7A092BC1253B0008DCC3 /* Base64 File Encoding */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Base64 File Encoding"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55DC7A0C2BC1253B0008DCC3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		55DC7A132BC125C00008DCC3 /* base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = base64.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				55DC7A0C2BC1253B0008DCC3 /* main.cpp */,
+				55DC7A132BC125C00008DCC3 /* base64.h */,
 			);
 			path = "Base64 File Encoding";
 			sourceTree = "<group>";
